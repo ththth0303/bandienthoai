@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Auto detect text files and perform LF normalization
 * text=auto
 
@@ -15,3 +16,8 @@
 *.PDF	 diff=astextplain
 *.rtf	 diff=astextplain
 *.RTF	 diff=astextplain
+=======
+* text=auto
+*.css linguist-vendored
+*.scss linguist-vendored
+>>>>>>> 90b8b5e1b8504d351f36f33dc51a034ca89489da
